@@ -1,3 +1,3 @@
 Hi,we are learning Git together.
 Have a good time!
-we are going card some git commands.
+we are going card some git commands.eg.add and so on.
